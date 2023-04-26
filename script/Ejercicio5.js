@@ -5,3 +5,7 @@ rutaB = 1000
 
 placa = Number(prompt('Ingrese el número de placa'))
 pasajeros =  Number(prompt('Ingrese el número de pasajeros'))
+
+prompt('Ingrese la ruta en la que está')
+
+

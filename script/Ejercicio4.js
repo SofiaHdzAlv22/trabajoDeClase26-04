@@ -15,5 +15,5 @@ valor2= Number(prompt('Ingrese el valor del pasaje 2'))
 if(dinero1 > dinero2){
     alert('El bus que más recolectó fue el de la placa ' + placa1 )
 }else{
-    alert('El bus que más recolectó fue ' + placa2 ) 
+    alert('El bus que más recolectó fue el de la placa ' + placa2 ) 
 }
